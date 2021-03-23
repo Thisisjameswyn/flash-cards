@@ -1,0 +1,16 @@
+body{
+  padding-top: 20px;
+}
+
+p {
+  display: none;
+}
+
+h2 {
+  color: rgb(2, 0, 3);
+  cursor: pointer;
+}
+
+h2:hover {
+  color: rgb(202, 94, 202);
+}
